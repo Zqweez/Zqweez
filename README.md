@@ -21,8 +21,7 @@ https://github.com/HOTHEAD01TH/HOTHEAD01TH/blob/main/README.md
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HOTHEAD01TH&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-streak-stats-salesp07.vercel.app?user=HOTHEAD01TH&theme=elegant&hide_border=true" height="150" alt="streak graph"  />
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app?user=Zqweez&theme=elegant&hide_border=true" height="200" alt="streak graph"  />
 </div>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -31,7 +30,18 @@ https://github.com/HOTHEAD01TH/HOTHEAD01TH/blob/main/README.md
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" height="40" alt="sass logo" />
+          
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/denojs/denojs-original.svg" height="40" alt="deno logo" />
-          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" height="40" alt="rstudio logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" height="40" alt="r logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" alt="git logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" height="40" alt="supabase logo" />
+                   
+
+<img src="https://raw.githubusercontent.com/Zqweez/Zqweez/output/snake.svg" alt="Snake animation" />
