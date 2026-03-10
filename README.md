@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 using https://devicon.dev/ to get icons
 https://github.com/HOTHEAD01TH/HOTHEAD01TH/blob/main/README.md
 -->
+###
+![](https://github.com/Zqweez/Zqweez/blob/main/header-text.svg)
 
 ###
 
