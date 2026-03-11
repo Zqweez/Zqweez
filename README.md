@@ -2,7 +2,11 @@
 
 ###
 
+<div align="center">
+
 [![GitHub Streak](https://github-readme-streak-stats-salesp07.vercel.app?user=Zqweez&theme=onedark-duo&hide_border=true&border_radius=15)](https://git.io/streak-stats)
+
+</div>
 
 ###
 <!--using https://devicon.dev/ to get icons-->
