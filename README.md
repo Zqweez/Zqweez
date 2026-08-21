@@ -30,7 +30,7 @@
 </div>
 
 ## Contact me
-- Email: <a href="mailto:kasper.storck@gmail.com">kasper.storck@gmail.com</a> or <a href="mailto:kasperst@chalmers.se">kasperst@chalmers.se</a>
+- Email: <a href="mailto:kasper.storck@gmail.com">kasper.storck@gmail.com</a> or <a href="mailto:kasper.storck@gu.se">kasper.storck@gu.se</a>
 
 
 <div align="center">
